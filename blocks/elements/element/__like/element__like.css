@@ -1,0 +1,12 @@
+.element__like {
+  padding: 0;
+  width: 22px;
+  height: 19px;
+  background-image: url(../../../../images/element__like.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #FFFFFF;
+  background-size: contain;
+  border: none;
+  align-self: center;
+}
