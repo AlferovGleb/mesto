@@ -2,6 +2,9 @@
   background-color: #000000;
   color: #FFFFFF;
   font-family: Inter, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
   min-width: 320px;
   max-width: 880px;
   margin: 45px auto 60px;

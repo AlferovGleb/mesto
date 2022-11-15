@@ -8,6 +8,11 @@
   background-position: center;
   background-color: #000000;
   background-repeat: no-repeat;
+  transition: opacity .1s linear;
+}
+
+.profile__add-button:hover {
+  opacity: .6;
 }
 
 @media screen and (max-width: 650px) {

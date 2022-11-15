@@ -9,4 +9,9 @@
   background-size: contain;
   border: none;
   align-self: center;
+  transition: opacity .1s linear;
+}
+
+.element__like:hover {
+  opacity: .5;
 }
