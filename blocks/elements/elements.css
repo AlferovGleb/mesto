@@ -12,6 +12,7 @@
   .elements {
     grid-template-columns: repeat(2, 282px);
     column-gap: 20px;
+    justify-content: space-evenly;
   }
 }
 

@@ -9,6 +9,7 @@
   background-color: #000000;
   background-repeat: no-repeat;
   transition: opacity .1s linear;
+  cursor: pointer;
 }
 
 .profile__add-button:hover {
