@@ -2,6 +2,9 @@
   background-color: #FFFFFF;
   border-radius: 10px;
   max-width: 282px;
+  height: 361px;
+  display: flex;
+  flex-direction: column;
 }
 
 @media screen and (max-width: 900px) {

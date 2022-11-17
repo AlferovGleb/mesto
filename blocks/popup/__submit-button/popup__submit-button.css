@@ -10,12 +10,12 @@
   font-size: 18px;
   line-height: 22px;
   margin-top: 48px;
-  transition: opacity .1s linear;
+  transition: .1s linear;
   cursor: pointer;
 }
 
 .popup__submit-button:hover {
-  opacity: .8;
+  background-color: rgba(0, 0, 0, .8);
 }
 
 @media screen and (max-width: 650px) {

@@ -5,7 +5,15 @@
   width: 100%;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 900px) {
+  .profile {
+    margin-left: 27px;
+    margin-right: 27px;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 690px) {
   .profile {
     flex-direction: column;
     margin: 42px auto 0;
